@@ -1,3 +1,4 @@
+---
 layout: w
 title: 使用Jenkins + 码云 实现前端持续集成
 date: 2018-01-10 15:29:07
