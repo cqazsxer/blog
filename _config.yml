@@ -75,7 +75,7 @@ theme: Anisina
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://cqazsxer:cqazsxe529952@github.com/cqazsxer/cqazsxer.github.io.git
+  repo: https://github.com/cqazsxer/cqazsxer.github.io.git
   branch: master
 
   
