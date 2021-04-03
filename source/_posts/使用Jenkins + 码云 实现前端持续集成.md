@@ -7,7 +7,6 @@ tags: Jenkins nodejs
 
 # 使用Jenkins + 码云 实现前端持续集成
 
-标签（空格分隔）： Jenkins 持续集成
 
 [toc]
 
